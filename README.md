@@ -6,8 +6,6 @@ In Stack all operatinos are perform on head
 
 # some basic  operations of stacks are mentioned below
 
-Push
-Pop
-Peek
+Push, Pop, Peek
 
 and so on..
