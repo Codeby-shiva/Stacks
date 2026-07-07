@@ -9,3 +9,10 @@ In Stack all operatinos are perform on head
 Push, Pop, Peek
 
 and so on..
+
+
+Push  ->  It push or add node to head
+
+Pop   ->   Remove node from head
+
+Peek  ->  Show the top/head  data
